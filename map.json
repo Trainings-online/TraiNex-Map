@@ -1223,7 +1223,7 @@
         {
          "columns":10,
          "firstgid":10041,
-         "image":".wand.png",
+         "image":"wand.png",
          "imageheight":408,
          "imagewidth":340,
          "margin":0,
