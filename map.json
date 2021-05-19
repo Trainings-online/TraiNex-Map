@@ -348,7 +348,7 @@
         }, 
         {
          "id":35,
-         "image":"..\/Downloads\/TraiNex-Map-master\/src\/meetingschild4.png",
+         "image":"..\/src\/meetingschild4.png",
          "name":"meeting4",
          "offsetx":325.333333333333,
          "offsety":466.666666666667,
