@@ -312,7 +312,7 @@
         }, 
         {
          "id":22,
-         "image":"..\/Desktop\/meetingschild.png",
+         "image":"../meetingschild.png",
          "name":"Meeting1",
          "offsetx":1233.5,
          "offsety":337,
