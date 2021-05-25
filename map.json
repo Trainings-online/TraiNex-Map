@@ -418,7 +418,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/Downloads\/TraiNex-Map-master\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1143,7 +1143,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/Downloads\/TraiNex-Map-master\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1166,7 +1166,7 @@
         {
          "columns":20,
          "firstgid":321,
-         "image":"..\/Downloads\/TraiNex-Map-master\/Impo2.png",
+         "image":"Impo2.png",
          "imageheight":7786,
          "imagewidth":646,
          "margin":0,
@@ -1457,7 +1457,7 @@
         {
          "columns":10,
          "firstgid":5181,
-         "image":"..\/Downloads\/TraiNex-Map-master\/wand.png",
+         "image":"wand.png",
          "imageheight":408,
          "imagewidth":340,
          "margin":0,
@@ -2557,7 +2557,7 @@
         {
          "columns":24,
          "firstgid":5301,
-         "image":"..\/Downloads\/TraiNex-Map-master\/impo6.png",
+         "image":"impo6.png",
          "imageheight":816,
          "imagewidth":748,
          "margin":0,
@@ -2570,7 +2570,7 @@
         {
          "columns":42,
          "firstgid":5949,
-         "image":"..\/Downloads\/TraiNex-Map-master\/impo4.png",
+         "image":"impo4.png",
          "imageheight":1972,
          "imagewidth":1360,
          "margin":0,
@@ -2583,7 +2583,7 @@
         {
          "columns":8,
          "firstgid":8511,
-         "image":"..\/Downloads\/TraiNex-Map-master\/[Base]BaseChip_pipo.png",
+         "image":"[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -3002,7 +3002,7 @@
         {
          "columns":19,
          "firstgid":9575,
-         "image":"..\/Downloads\/TraiNex-Map-master\/RPG Nature Tileset.png",
+         "image":"RPG Nature Tileset.png",
          "imageheight":288,
          "imagewidth":641,
          "margin":5,
@@ -3106,7 +3106,7 @@
         {
          "columns":8,
          "firstgid":9727,
-         "image":"..\/Desktop\/1x\/1x\/Element 120.png",
+         "image":"Element 120.png",
          "imageheight":544,
          "imagewidth":279,
          "margin":5,
